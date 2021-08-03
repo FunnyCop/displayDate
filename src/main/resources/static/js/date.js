@@ -1,0 +1,1 @@
+window.onload = () => { alert( "This is the date template" ); }
